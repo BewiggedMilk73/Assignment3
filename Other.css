@@ -1,12 +1,12 @@
-.homepage-nav
-{
+.homepage-nav {
     margin-left: 300px;
     font-size: 200%;
-    
+
 }
+
 img {
     margin-left: 100px;
-       width: 80vw;
+    width: 80vw;
 }
 
 h1 {
@@ -16,9 +16,12 @@ h1 {
 
 body {
     background-color: deepskyblue
-     
 }
 
-data {
-    
+a:visited {
+    color: #cccccc;
+}
+
+a:hover {
+    color: #ffffff;
 }
