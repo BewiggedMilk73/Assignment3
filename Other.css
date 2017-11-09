@@ -10,7 +10,7 @@ img {
 }
 
 h1 {
-    font-size: 300%;
+    font-size: %;
     margin-left: 455px;
 }
 
@@ -34,10 +34,37 @@ p {
    
 }
 
-div1 {
+.pie {
+ 
+display: inline-block;
+}
 
+.pies{
+    display: inline-block;
+}
+.pies ul{
+    list-style: none;
+}
+.pieb{
+    list-style: disc;
 }
 
 h3 {
     float: right;
 }
+
+h4 {
+    font-size: 200%;
+    text-decoration: underline;
+}
+
+li {
+    
+}
+
+h5 {
+    font-size: 200%;
+    margin-left: 550px;
+    text-decoration: underline;
+}
+
