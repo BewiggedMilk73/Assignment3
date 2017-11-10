@@ -15,7 +15,7 @@ h1 {
 }
 
 body {
-    background-color: deepskyblue
+    background-color: #86b1f7
 }
 
 a:visited {
@@ -26,28 +26,19 @@ a:hover {
     color: #ffffff;
 }
 
-h2 {
+h2 {}
 
-}
-
-p {
-   
-}
+p {}
 
 /* Sections for the 'Data' tab */
 
-.ValComp{
-    display: inline-block;
-}
-.pies ul{
+.ValComp-li {
+    float: left;
     list-style: none;
 }
-.pieb{
-    list-style: disc;
-}
-.pie {
- 
-display: inline-block;
+
+.ValComp-li ul {
+    list-style: initial;
 }
 
 h3 {
@@ -56,11 +47,12 @@ h3 {
 
 h4 {
     font-size: 200%;
+    columns: 3;
     text-decoration: underline;
 }
 
 li {
-    
+
 }
 
 h5 {
@@ -68,4 +60,3 @@ h5 {
     margin-left: 550px;
     text-decoration: underline;
 }
-
