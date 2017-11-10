@@ -34,12 +34,9 @@ p {
    
 }
 
-.pie {
- 
-display: inline-block;
-}
+/* Sections for the 'Data' tab */
 
-.pies{
+.ValComp{
     display: inline-block;
 }
 .pies ul{
@@ -47,6 +44,10 @@ display: inline-block;
 }
 .pieb{
     list-style: disc;
+}
+.pie {
+ 
+display: inline-block;
 }
 
 h3 {
